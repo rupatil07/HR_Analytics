@@ -216,7 +216,7 @@ Enable HR leaders to make informed decisions based on real workforce data rather
 
 ## 📸 Dashboard Preview
 
-
+https://github.com/rupatil07/HR_Analytics/blob/main/Screenshot-HR_Analitycs.png
 
 ## 🚀 How to Use
 
